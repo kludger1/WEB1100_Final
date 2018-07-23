@@ -1,6 +1,6 @@
 # WEB2010 Final Exam
 
-1. In the app.js file, use $.ajax() with the dog_api to get an array of all the dog breeds. Read the API docs (https://dog.ceo/dog-api/) to figure out which URL you should use. Log the response to the console. The response should have a "message" property, which should be an Object that contains all the dog breeds as its properties.
+1. In the app.js file, use $.ajax() with the dog_api the app.js file, use $.ajax() with the dog_api to get an array of all the dog breeds. Read the API docs (https://dog.ceo/dog-api/) to figure out which URL you should use. Log the response to the console. The response should have a "message" property, which should be an Object that contains all the dog breeds as its properties.
 
 2. For each dog breed, create an '<option value=""></option>' HTML element (with javascript) and place it inside the select element. Each option element should have a breed for its text content and the same breed for its value attribute. If it works correctly, the select element will show a dropdown list of dog breeds when you click on it.
 
